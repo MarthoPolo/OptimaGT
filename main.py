@@ -33,8 +33,12 @@ def webScrape (URL):
     request = requests.get(URL) 
     soup = BeautifulSoup(request.content, 'html5lib') # If this line causes an error, run 'pip install html5lib' or install html5lib 
     data_str = ''
+    i = 0
     for item in soup.findAll('p'):
         data_str = data_str + item.get_text()
+        if (i % 50 == 0):
+            data_str += "\n"
+        i += 1
 
     print(data_str)
 
