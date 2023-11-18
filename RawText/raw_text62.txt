@@ -1,6 +1,0 @@
-Sorry, the page you were looking for at this URL was not found.
-Use this little footer to reinforce your message about who you are and why people love working with you. And since this is a global module, you only have to edit it once to make the changes across every page it appears on.Learn More [fa icon="long-arrow-right"][fa icon="phone"]  [fa icon="envelope"]  yourname@company.com[fa icon="home"]  Capitol Park East, Tingley WF3 1DR  
-[fa icon="facebook-square"]Facebook
-[fa icon="linkedin-square"]Linkedin
-[fa icon="twitter-square"]Twitter
-[fa icon="pinterest-square"]Pinterest
