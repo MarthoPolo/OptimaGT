@@ -30,6 +30,9 @@ def webScrape (URL, fileNUm):
                 data_str += "\n"
             i += 1
 
+        if (len(data_str) <= 1200):
+            return
+
 
         # Specify the path to the output text file
         
