@@ -1,0 +1,51 @@
+/*
+    The CSS export should solely be used as a reference.
+    For a more detailed animation export the JSON file should be used.
+    */
+    #Personalized_Fitness._Built_with_Generative_AI. {
+  transform: translateX(-50%)translateX(-50%) translateX(var(--fgmtn-translate-x)) translateY(var(--fgmtn-translate-y)) scaleX(var(--fgmtn-scale-x)) scaleY(var(--fgmtn-scale-y)) rotate(var(--fgmtn-rotation));
+  animation: Personalized_Fitness._Built_with_Generative_AI.__y__1 900ms 0ms ease-out forwards, Personalized_Fitness._Built_with_Generative_AI.__opacity__1 900ms 0ms ease-out forwards;
+}
+
+@keyframes Personalized_Fitness._Built_with_Generative_AI.__y__1 {
+  from {
+    top: 159.5px;
+  }
+
+  to {
+    top: 139.5px;
+  }
+}
+@keyframes Personalized_Fitness._Built_with_Generative_AI.__opacity__1 {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+#Get_Started_Button {
+  transform: translateX(-50%)translateX(-50%) translateX(var(--fgmtn-translate-x)) translateY(var(--fgmtn-translate-y)) scaleX(var(--fgmtn-scale-x)) scaleY(var(--fgmtn-scale-y)) rotate(var(--fgmtn-rotation));
+  animation: Get_Started_Button__y__1 900ms 0ms linear forwards, Get_Started_Button__opacity__1 900ms 0ms linear forwards;
+}
+
+@keyframes Get_Started_Button__y__1 {
+  from {
+    top: 248px;
+  }
+
+  to {
+    top: 228px;
+  }
+}
+@keyframes Get_Started_Button__opacity__1 {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}

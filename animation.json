@@ -1,0 +1,190 @@
+{
+  "Get Started": {
+    "version": "0.2.0",
+    "anchorPoint": "MIDDLECENTER",
+    "keyframes": {}
+  },
+  "PersonaFitAI": {
+    "version": "0.2.0",
+    "anchorPoint": "MIDDLECENTER",
+    "keyframes": {}
+  },
+  "Personalized Fitness. Built with Generative AI.": {
+    "version": "2.6.2",
+    "anchorPoint": "MIDDLECENTER",
+    "keyframes": {
+      "x": [],
+      "y": [
+        {
+          "id": "i8oqWXB6S1UE",
+          "ms": 0,
+          "property": "y",
+          "value": 159.5,
+          "easing": "linear",
+          "easingCurve": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "id": "D7RKpMe11rja",
+          "ms": 900,
+          "property": "y",
+          "value": 139.5,
+          "easing": "easeOut",
+          "easingCurve": [
+            0,
+            0,
+            0.58,
+            1
+          ]
+        }
+      ],
+      "width": [],
+      "opacity": [
+        {
+          "id": "Y5298Tty58Py",
+          "ms": 0,
+          "property": "opacity",
+          "value": 0,
+          "easing": "linear",
+          "easingCurve": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "id": "VgZ3BiAb3BTS",
+          "ms": 900,
+          "property": "opacity",
+          "value": 1,
+          "easing": "easeOut",
+          "easingCurve": [
+            0,
+            0,
+            0.58,
+            1
+          ]
+        }
+      ]
+    }
+  },
+  "Rectangle 1": {
+    "version": "0.2.0",
+    "anchorPoint": "MIDDLECENTER",
+    "keyframes": {}
+  },
+  "Rectangle 7": {
+    "version": "0.2.0",
+    "anchorPoint": "MIDDLECENTER",
+    "keyframes": {}
+  },
+  "Rectangle 8": {
+    "version": "0.2.0",
+    "anchorPoint": "MIDDLECENTER",
+    "keyframes": {}
+  },
+  "Rectangle 9": {
+    "version": "2.6.2",
+    "anchorPoint": "MIDDLECENTER",
+    "keyframes": {
+      "x": [],
+      "y": [],
+      "width": [],
+      "opacity": []
+    }
+  },
+  "Sign In": {
+    "version": "0.2.0",
+    "anchorPoint": "MIDDLECENTER",
+    "keyframes": {}
+  },
+  "cube-group": {
+    "version": "0.2.0",
+    "anchorPoint": "MIDDLECENTER",
+    "keyframes": {}
+  },
+  "left-face": {
+    "version": "0.2.0",
+    "anchorPoint": "MIDDLECENTER",
+    "keyframes": {}
+  },
+  "right-face": {
+    "version": "0.2.0",
+    "anchorPoint": "MIDDLECENTER",
+    "keyframes": {}
+  },
+  "top-face": {
+    "version": "0.2.0",
+    "anchorPoint": "MIDDLECENTER",
+    "keyframes": {}
+  },
+  "Get Started Button": {
+    "version": "2.6.2",
+    "anchorPoint": "MIDDLECENTER",
+    "keyframes": {
+      "x": [],
+      "y": [
+        {
+          "id": "cyKG4Km6L6A2",
+          "ms": 0,
+          "property": "y",
+          "value": 248,
+          "easing": "linear",
+          "easingCurve": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "id": "NscQ1ST8Ycpa",
+          "ms": 900,
+          "property": "y",
+          "value": 228,
+          "easing": "easeOutQuart",
+          "easingCurve": [
+            0,
+            0,
+            0.58,
+            1
+          ],
+          "isExpression": false
+        }
+      ],
+      "opacity": [
+        {
+          "id": "U0QyMTJ3J5lR",
+          "ms": 0,
+          "property": "opacity",
+          "value": 0,
+          "easing": "linear",
+          "easingCurve": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "id": "ZFaOo6KNARGZ",
+          "ms": 900,
+          "property": "opacity",
+          "value": 1,
+          "easing": "easeInOutQuart",
+          "easingCurve": [
+            0,
+            0,
+            0.58,
+            1
+          ]
+        }
+      ]
+    }
+  }
+}
