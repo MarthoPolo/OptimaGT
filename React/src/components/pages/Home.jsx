@@ -1,5 +1,5 @@
 import React from 'react'
-import 'C:/PersonalProjects/PersonaFitAI/React/src/App.css';
+import '../../App.css';
 import {motion} from 'framer-motion'
 import { NavLink } from 'react-router-dom';
 
