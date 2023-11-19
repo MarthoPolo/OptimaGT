@@ -1,0 +1,71 @@
+How many calories should I deficit to lose weight?
+For sustainable and safe weight loss, it is advisable to aim for losing about 1-2 pounds a week. This means eating 500 to 1000 calories below your maintenance calories a day.
+For sustainable and safe weight loss, it is advisable to aim for losing about 1-2 pounds a week. This means eating 500 to 1000 calories below your maintenance calories a day.
+A calorie deficit means consuming fewer calories than your body uses in a day. To calculate your calorie deficit for weight loss, follow these two basic steps:
+
+Step 1: Calculate your maintenance calories
+The first step to calculating your calorie deficit is to find out how many calories you need in a day to maintain your weight, also called maintenance calories.
+
+Multiply your weight by 15
+
+A rough estimate for calculating maintenance calories for a moderately active person is multiplying body weight in pounds by 15 (you roughly need 15 calories per pound of your body weight to maintain your current weight). 
+
+Moderately active means engaging in physical activity equivalent to walking about 1.5-3 miles a day at 3-4 miles an hour, in addition to daily living activities. 
+
+So, if you weigh 150 pounds, your maintenance calories will be 150 × 15 = 2,250 calories.
+
+Figure out your BMR and TDEE
+
+Another way to calculate your maintenance calories is knowing your basal metabolic rate (BMR) and total daily energy expenditure (TDEE). 
+
+BMR is the number of calories needed to maintain basic life-sustaining functions, such as breathing, maintaining blood pressure, and digesting food. One popular formula for calculating BMR is the Harris-Benedict formula. According to this formula:
+
+Male BMR formula = 66 + (6.23 × weight in pounds) + (12.7 × height in inches) − (6.8 × age in years)
+Female BMR formula = 655 + (4.3 x weight in pounds) + (4.7 x height in inches) – (4.7 x age in years)
+BMR chart shows a male (5" 7" 170 lbs. 43 years old) and a female (5' 3" 130 lbs. and 36 years old)
+BMR	Weight (lbs.)	Height (inches)	Age (years)	Total BMR
+Male	170	5' 7"	43	1734
+Female	130	5" 3"	36	1347
+Next, you need to calculate your TDEE, which is the total number of calories you burn including your BMR. Your TDEE equals your maintenance calories. To calculate your TDEE:
+
+TDEE = 1.2 × BMR if you have a sedentary lifestyle (little to no exercise and work a desk job)
+TDEE = 1.375 × BMR if you have a lightly active lifestyle (light exercise 1-3 days per week)
+TDEE = 1.55 × BMR if you have a moderately active lifestyle (moderate exercise 3-5 days per week)
+TDEE = 1.725 × BMR if you have a very active lifestyle (heavy exercise 6-7 days per week)
+TDEE = 1.9 × BMR if you have an extremely active lifestyle (strenuous training 2 times a day)
+Based on the above TDEE formula, a male (5’ 7” and 155 lbs.) and a female (5’ 4” and 110 lbs.) have a sedentary lifestyle as shown in the below chart.
+
+TDEE chart shows a male (5’ 7” and 155 lbs.) and a female (5’ 4” and 110 lbs.) sedentary lifestyle
+Physical activity (Exercise)	Male TDEE	Female TDEE
+No Exercise	2081	1617
+Light Exercise (1-3 days/week)	2385	1853
+Moderate exercise (3-5 days/week)	2688	2088
+Heavy exercise (6-7 days/week)	2992	2324
+Step 2: Calculate your calorie deficit
+According to the American Heart Association, you need to eat 500 calories less than your maintenance calories a day to lose 1 pound of weight a week.
+
+So, if your TDEE is 2,000 calories, eating 1,500 calories a day for 7 days may help you achieve a weight loss of 1 pound a week as long as you keep your daily activities consistent. Increased physical activity means more weight loss. 
+
+If you are a beginner, you can start with a deficit of 200 to 300 calories initially and then build up to eating 500 to 750 calories under your maintenance calories.
+
+
+How does a calorie deficit work?
+Calories have two outcomes: either they are used for work and body functioning, or the excess calories get stored primarily as body fat. If you consume more calories than you use, you are bound to gain weight no matter what type of diet you follow.
+
+The number of calories you need in a day is determined by several factors, such as:
+
+Age
+Gender
+Weight
+Height
+Physical activity
+Basal metabolic rate
+Underlying health conditions
+Body composition (primarily muscle mass and fat percentage)
+
+How much weight can I safely lose in a week? Is 1200 calories a day a deficit?
+For sustainable and safe weight loss, it is advisable to aim for losing about 1-2 pounds a week. This means eating 500 to 1000 calories below your maintenance calories a day. 
+
+It is generally considered to be a caloric deficit to consume 1200 calories per day if you are trying to lose weight. A caloric deficit occurs when you burn more calories than you consume (TDEE of 2000 calories), which can promote weight loss.
+
+Along with losing weight, it’s important to make sure to eat healthy, exercise, get enough sleep, manage stress, and drink plenty of water for overall health.
